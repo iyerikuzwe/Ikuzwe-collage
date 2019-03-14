@@ -8,7 +8,7 @@ Python 3.6 required
 To access this app on your local machine:
 
     Clone the repo
-Create a virtual environment then pip install requirements.txt
+    Create a virtual environment then pip install requirements.txt
 On your terminal route to the root folder then run: python manage.py runserver
 Features
 Users can view different photos that they like.
