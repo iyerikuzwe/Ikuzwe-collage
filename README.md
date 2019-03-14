@@ -14,7 +14,7 @@ To access this app on your local machine:
     Users can view different photos that they like.
     Click on a single photo to expand it and view more details.
     Search for different categories of photos.
-Copy a link of a single photo.
+    Copy a link of a single photo.
 View photos based on the location they were taken.
 Known Bugs
 There are no bugs.
