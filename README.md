@@ -24,7 +24,7 @@ There are no bugs.
     *The templates were made using html and was styled using css and bootstrap 3.
     *The database used was postgresql, it was edited using visual studio code and deployed to heroku.
 
-Support and Contact details
+## Support and Contact details
 Incase of additions or if you run into any issues, my email address is: owenmuriithi@gmail.com
 
 License
