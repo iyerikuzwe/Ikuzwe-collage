@@ -4,7 +4,7 @@ This is an application where users can view my photo collection. Users can view 
 ## Prerequisites
 Python 3.6 required
 
-Set-Up
+## Set-Up
 To access this app on your local machine:
 
 Clone the repo
