@@ -25,7 +25,7 @@ There are no bugs.
     *The database used was postgresql, it was edited using visual studio code and deployed to heroku.
 
 ## Support and Contact details
-    Incase of additions or if you run into any issues, my email address is: owenmuriithi@gmail.com
+    Incase of additions or if you run into any issues, my email address is: @gmail.com
 
 License
 Copyright (c) 2018 Owen Muriithi
