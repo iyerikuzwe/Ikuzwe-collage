@@ -16,7 +16,7 @@ To access this app on your local machine:
     Search for different categories of photos.
     Copy a link of a single photo.
     View photos based on the location they were taken.
-Known Bugs
+## Known Bugs
 There are no bugs.
 
 Technologies used
