@@ -7,7 +7,7 @@ Python 3.6 required
 ## Set-Up
 To access this app on your local machine:
 
-Clone the repo
+    Clone the repo
 Create a virtual environment then pip install requirements.txt
 On your terminal route to the root folder then run: python manage.py runserver
 Features
