@@ -10,7 +10,7 @@ To access this app on your local machine:
     Clone the repo
     Create a virtual environment then pip install requirements.txt
     On your terminal route to the root folder then run: python manage.py runserver
-Features
+## Features
 Users can view different photos that they like.
 Click on a single photo to expand it and view more details.
 Search for different categories of photos.
