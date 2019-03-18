@@ -32,7 +32,7 @@ There are no bugs.
 ## Support and Contact details
 Incase of additions or if you run into any issues, my email address is:iyerikuzweregine19@gmail.com
 ## Deployment.
-    Add additional notes about how to deploy this on a live system
+    
 ## License
     Copyright (c) 2019 Regine Iyerikuzwe
 
