@@ -1,7 +1,8 @@
 # Author
     Iyerikuzwe Regine
 # Collage
-This is an application where users can view my photo collection. Users can view photos based on the listed locations in the navbar, search for photos based on available categories so far and copy link to the photos.
+    This is an application where users can view my photo collection. Users can view photos based on the listed locations in the navbar,
+    search for photos based on available categories so far and copy link to the photos.
 
 ## Prerequisites
 Python 3.6 required
