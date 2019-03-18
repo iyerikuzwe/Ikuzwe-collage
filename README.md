@@ -5,7 +5,7 @@
     search for photos based on available categories so far and copy link to the photos.
 
 ## Prerequisites
-    Python 3.6 required
+    Python 3.6 required.
 
 ## Set-Up
     To access this app on your local machine:
