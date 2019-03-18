@@ -7,11 +7,11 @@ This is an application where users can view my photo collection. Users can view 
 Python 3.6 required
 
 ## Set-Up
-To access this app on your local machine:
+    To access this app on your local machine:
 
-    Clone the repo
-    Create a virtual environment then pip install requirements.txt
-    On your terminal route to the root folder then run: python manage.py runserver
+        Clone the repo
+        Create a virtual environment then pip install requirements.txt
+        On your terminal route to the root folder then run: python manage.py runserver
 ## Features
     Users can view different photos that they like.
     Click on a single photo to expand it and view more details.
