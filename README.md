@@ -37,3 +37,10 @@ Incase of additions or if you run into any issues, my email address is:iyerikuzw
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Acknowledgement
+    1. I would like to express my deepest appreciation to moringa school who provided me the possibility to complete this project.
+    2.  A special gratitude I give to my mentors,  whose contribution in stimulating suggestions and encouragement,  helped me to coordinate my project.
+
+    3. Furthermore I would also like to acknowledge with much appreciation the crucial role of my classmates who  help me to assemble the codes and gave suggestion about the task.
+    4.  Last but not least, many thanks go to the mentor of the project, [Mr Saphani] whose have invested his full effort in guiding our team in achieving the goal.
+    5. I have to appreciate the guidance given by other facilitators that has improved our projects skills,thanks to their comments and advices.
