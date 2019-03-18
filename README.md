@@ -31,8 +31,8 @@ There are no bugs.
     Please note we have a code of conduct, please follow it in all your interactions with the project.
 ## Support and Contact details
 Incase of additions or if you run into any issues, my email address is:iyerikuzweregine19@gmail.com
-## Deployment
-
+## Deployment.
+Add additional notes about how to deploy this on a live system
 ## License
     Copyright (c) 2019 Regine Iyerikuzwe
 
