@@ -32,11 +32,11 @@ There are no bugs.
 ## Support and Contact details
 Incase of additions or if you run into any issues, my email address is:iyerikuzweregine19@gmail.com
 ## Deployment.
-   Before you can host a website externally you're first going to have to:
-    1.Make a few changes to your project settings.
-    2.Choose an environment for hosting the Django app.
-    3.Choose an environment for hosting any static files.
-    4.Set up a production-level infrastructure for serving your website. 
+    Before you can host a website externally you're first going to have to:
+        1.Make a few changes to your project settings.
+        2.Choose an environment for hosting the Django app.
+        3.Choose an environment for hosting any static files.
+        4.Set up a production-level infrastructure for serving your website. 
 ## License
     Copyright (c) 2019 Regine Iyerikuzwe
 
