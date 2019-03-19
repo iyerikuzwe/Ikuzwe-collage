@@ -26,7 +26,7 @@
     *This application was made with Python version 3.6 using the django framework.
     *The templates were made using html and was styled using css and bootstrap 3.
     *The database used was postgresql, it was edited using visual studio code and deployed to heroku.
-## Contributing
+## Contributing.
     When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
     Please note we have a code of conduct, please follow it in all your interactions with the project.
