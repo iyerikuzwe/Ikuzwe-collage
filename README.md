@@ -32,6 +32,7 @@
     Please note we have a code of conduct, please follow it in all your interactions with the project.
 ## Support and Contact details
 Incase of additions or if you run into any issues, my email address is:iyerikuzweregine19@gmail.com
+or call:0789329012
 ## Deployment.
     Before you can host a website externally you're first going to have to:
         1.Make a few changes to your project settings.
