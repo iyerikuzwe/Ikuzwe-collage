@@ -7,7 +7,7 @@
 ## Prerequisites
     Python 3.6 required.
 
-## Set-Up
+## Installation Set-Up
     To access this app on your local machine:
 
         Clone the repo
