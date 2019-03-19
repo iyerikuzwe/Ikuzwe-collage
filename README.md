@@ -39,7 +39,7 @@ Incase of additions or if you run into any issues, my email address is:iyerikuzw
         3.Choose an environment for hosting any static files.
         4.Set up a production-level infrastructure for serving your website. 
 ## License
-    Copyright (c) 2019 Regine Iyerikuzwe
+    Copyright (c) 2019 Regine Iyerikuzwe.
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
