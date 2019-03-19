@@ -33,6 +33,8 @@
 ## Support and Contact details
 Incase of additions or if you run into any issues, my email address is:iyerikuzweregine19@gmail.com
 or call:0789329012
+## Link to github
+https://github.com/iyerikuzwe/Ikuzwe-collage
 ## Deployment.
     Before you can host a website externally you're first going to have to:
         1.Make a few changes to your project settings.
