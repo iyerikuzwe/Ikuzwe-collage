@@ -21,12 +21,13 @@
     In the settings.py module of the project make the following changes
 
     DATABASES = { 'default': { 'ENGINE': 'django.db.backends.postgresql', 'NAME': 'collage', 'USER': POSTGRES_USERNAME, 'PASSWORD': POSTGRES_USERNAME, } }
-
+    $ sudo lsof -t -i tcp:8000 | xargs kill -9
     $ python3.6 manage.py runserver (this command runs the application of port http://127.0.0.1/8000 )
 ## Features
     Users can view different photos that they like.
     Click on a single photo to expand it and view more details.
-    Search for different categories of photos.
+    Search for different categories of photos. 
+
     Copy a link of a single photo.
     View photos based on the location they were taken.
 ## Known Bugs
