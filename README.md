@@ -6,13 +6,23 @@
 
 ## Prerequisites
     Python 3.6 required.
-
-## Installation Set-Up
+## Installation Process
     To access this app on your local machine:
+    Clone the repo
+    in your terminal run the following commands
 
-        Clone the repo
-        Create a virtual environment then pip install requirements.txt
-        On your terminal route to the root folder then run: python manage.py runserver
+    $ git clone REPO-URL in your terminal
+    $ cd collage
+    $ python3.6 -m venv virtual
+    $ touch .env ( to the file add : SECRET_KEY= DEBUG=True)
+    $ source virtual/bin/activate
+    $ python3.6 -m pip install -r requirements.txt
+    $ psql ; CREATE DATABASE collage ;
+    In the settings.py module of the project make the following changes
+
+    DATABASES = { 'default': { 'ENGINE': 'django.db.backends.postgresql', 'NAME': 'collage', 'USER': POSTGRES_USERNAME, 'PASSWORD': POSTGRES_USERNAME, } }
+
+    $ python3.6 manage.py runserver (this command runs the application of port http://127.0.0.1/8000 )
 ## Features
     Users can view different photos that they like.
     Click on a single photo to expand it and view more details.
