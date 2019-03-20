@@ -5,7 +5,7 @@ h1{
 }
 .jumbotron{
     margin-top:-20px;
-    background-image: url("/static/photo/photo1.jpg"); 
+    /* background-image: url("/static/photo/photo1.jpg");  */
     background-blend-mode: overlay;
     background-attachment: fixed;
     background-size:cover;
