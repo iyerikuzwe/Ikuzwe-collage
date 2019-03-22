@@ -22,7 +22,7 @@ MODE=config("MODE", default="dev")
 SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', default=False, cast=bool)
 ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
-development
+# development
 # if config('MODE')=="dev":
 #    DATABASES = {
 #        'default': {
