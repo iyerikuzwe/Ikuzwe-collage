@@ -35,9 +35,9 @@ if config('MODE')=="dev":
 #         # 'NAME': 'collage',
 #         # 'USER': 'wecode',
 #         # 'PASSWORD':'regine1990',
-#        }
+        }
        
-#    }
+    }
 
 DATABASES = {
         'default': dj_database_url.config(
