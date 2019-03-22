@@ -53,14 +53,14 @@ DATABASES['default'].update(db_from_env)
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
-SECURITY WARNING: keep the secret key used in production secret!
+# SECURITY WARNING: keep the secret key used in production secret!
 
-SECRET_KEY = 'qc57=pk4sat61cj24e_lp+@iif2)dka&uzbcc%o*kp&ok1a7g='
+# SECRET_KEY = 'qc57=pk4sat61cj24e_lp+@iif2)dka&uzbcc%o*kp&ok1a7g='
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+# # SECURITY WARNING: don't run with debug turned on in production!
+# DEBUG = True
 
-ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []
 
 
 # Application definition
