@@ -31,7 +31,7 @@
     Copy a link of a single photo.
     View photos based on the location they were taken.
 ## Known Bugs
-    There are no bugs.
+    There are no bugs
 
 ## Technologies used
     *This application was made with Python version 3.6 using the django framework.
