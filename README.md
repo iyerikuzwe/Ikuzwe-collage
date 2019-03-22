@@ -44,7 +44,7 @@
 ## Support and Contact details
 Incase of additions or if you run into any issues, my email address is:iyerikuzweregine19@gmail.com
 or call:0789329012
-## Link to github
+## Link to github.
 https://github.com/iyerikuzwe/Ikuzwe-collage
 
 ## Deployment.
