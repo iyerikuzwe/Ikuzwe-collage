@@ -6,7 +6,7 @@
 
 ## Prerequisites
     Python 3.6 required.
-## Installation Process
+## Installation Process.
     To access this app on your local machine:
     Clone the repo
     in your terminal run the following commands
